@@ -1,0 +1,29 @@
+# =============================================
+# DEVELOPMENT REQUIREMENTS
+# =============================================
+# Development Tools
+black>=22.12.0
+flake8>=6.0.0
+mypy>=0.991
+pre-commit>=2.20.0
+
+# Testing
+pytest>=7.2.0
+pytest-cov>=4.0.0
+pytest-mock>=3.10.0
+
+# Documentation
+sphinx>=5.3.0
+sphinx-rtd-theme>=1.2.0
+sphinx-autodoc-typehints>=1.19.5
+
+# Jupyter for experimentation
+jupyter>=1.0.0
+ipython>=8.7.0
+
+# Debugging
+ipdb>=0.13.9
+debugpy>=1.6.3
+
+# Version Control
+gitpython>=3.1.30
