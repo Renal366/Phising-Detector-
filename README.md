@@ -395,17 +395,6 @@ Output Layer (1 neuron, Sigmoid)
     ↓
 Binary Classification (0 = Legitimate, 1 = Phishing)
 ```
-
-## 🤝 Contributing
-
-Kontribusi sangat diterima! Silakan:
-
-1. Fork repository
-2. Buat branch feature (`git checkout -b feature/AmazingFeature`)
-3. Commit changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to branch (`git push origin feature/AmazingFeature`)
-5. Buat Pull Request
-
 ## 📄 License
 
 Distribusi dengan lisensi MIT. Lihat file `LICENSE` untuk detail.
@@ -414,11 +403,6 @@ Distribusi dengan lisensi MIT. Lihat file `LICENSE` untuk detail.
 
 Aplikasi ini dibuat untuk tujuan **penelitian dan edukasi**. Meskipun model memiliki akurasi tinggi, **selalu verifikasi URL mencurigakan secara manual** sebelum mengambil keputusan penting.
 
-## 📧 Support & Contact
-
-- 📧 Email: support@phishingdetector.local
-- 🐛 Issues: GitHub Issues
-- 💬 Discussions: GitHub Discussions
 - 📖 Documentation: Lihat menu "Informasi Model CNN" di aplikasi
 
 ## 🙏 Terima Kasih
@@ -428,7 +412,3 @@ Terima kasih telah menggunakan Sistem Deteksi URL Phishing berbasis CNN!
 **Stay Safe Online! 🔒**
 
 ---
-
-**Versi**: 2.1  
-**Last Updated**: Desember 2024  
-**Status**: ✅ Production Ready
