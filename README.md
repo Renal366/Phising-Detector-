@@ -32,7 +32,7 @@ Aplikasi deteksi URL phishing menggunakan **Convolutional Neural Network (CNN)**
 
 ```bash
 git clone https://github.com/Renal366/Phising-Detector-.git
-cd phishing-detector-cnn
+cd phishing-detector-
 ```
 
 ### 2. Setup Environment
