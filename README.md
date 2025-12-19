@@ -31,7 +31,7 @@ Aplikasi deteksi URL phishing menggunakan **Convolutional Neural Network (CNN)**
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/username/phishing-detector-cnn.git
+git clone https://github.com/Renal366/Phising-Detector-.git
 cd phishing-detector-cnn
 ```
 
@@ -65,7 +65,7 @@ Aplikasi akan menampilkan loading screen dan membuka menu utama secara otomatis.
 
 ## 📦 Requirements
 
-**Python Version**: 3.8 atau lebih tinggi
+**Python Version**: 3.8 atau lebih tinggi rekomen : 3.8 
 
 **Core Dependencies** (Minimal):
 ```
