@@ -150,11 +150,11 @@ class PhishingDetectorApp:
     
     info = [
         f"{Colors.OKGREEN}• Pengembang:{Colors.ENDC} Tim Riset Keamanan Siber",
-        f"{Colors.OKGREEN}• Institusi:{Colors.ENDC} [Untad: Untad Entod]",
+        f"{Colors.OKGREEN}• Institusi:{Colors.ENDC} Nusa Putra University",
         f"{Colors.OKGREEN}• Tujuan:{Colors.ENDC} Penelitian & Edukasi",
         f"{Colors.OKGREEN}• Model:{Colors.ENDC} CNN Deep Learning ",
         f"{Colors.OKGREEN}• Akurasi:{Colors.ENDC} 96.7%",
-        f"{Colors.OKGREEN}• Lisensi:{Colors.ENDC} Academic Use Only",
+        f"{Colors.OKGREEN}• Lisensi:{Colors.ENDC} ",
         f"{Colors.OKGREEN}• Kontak:{Colors.ENDC} nandur@phishingdetector.id"
     ]
     
@@ -226,4 +226,5 @@ def main():
     app.run()
 
 if __name__ == "__main__":
+
     main()
